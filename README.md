@@ -58,9 +58,5 @@ Each testing data has a threshold score; output alignment score >= threshold get
 
 ## References
 Please provide the code along with its reference. For example, you can cite it as: ```# ChatGPT, respond to “your prompt,” on February 16, 2023```. Below is an example of a reference format summarizing the use of ChatGPT for R programming
-
->You are the R Language expert.
->Please help me to write a function called “k_fold”.
->Using a given dataset to train the random forest model, and using the k-fold cross-validation to evaluate the best model parameters. Here is the instruction for the function requirements:\
->Function name: k_fold\
->Function parameters:
+將題目的Description, Files, Parameters, Command 提供給Gemini3.0 Pro進行python程式碼的生成。
+Code review程式碼的進行過程與函式的呼叫用法。無做多餘修改。
